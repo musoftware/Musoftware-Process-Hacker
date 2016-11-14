@@ -1,0 +1,8 @@
+F:\Production\Musoftware Process Hacker\GetObject\bin\Debug\GetObjectX.dll
+F:\Production\Musoftware Process Hacker\GetObject\bin\Debug\GetObjectX.pdb
+F:\Production\Musoftware Process Hacker\GetObject\bin\Debug\GetObjectX.xml
+F:\Production\Musoftware Process Hacker\GetObject\obj\Debug\GetObjectX.Resources.resources
+F:\Production\Musoftware Process Hacker\GetObject\obj\Debug\GetObject.vbproj.GenerateResource.Cache
+F:\Production\Musoftware Process Hacker\GetObject\obj\Debug\GetObjectX.dll
+F:\Production\Musoftware Process Hacker\GetObject\obj\Debug\GetObjectX.xml
+F:\Production\Musoftware Process Hacker\GetObject\obj\Debug\GetObjectX.pdb

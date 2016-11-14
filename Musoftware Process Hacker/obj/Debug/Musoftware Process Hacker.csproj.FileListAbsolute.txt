@@ -1,0 +1,11 @@
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\bin\Debug\Musoftware Process.exe
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\bin\Debug\Musoftware Process.pdb
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\bin\Debug\GetObjectX.dll
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\bin\Debug\GetObjectX.pdb
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\bin\Debug\GetObjectX.xml
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\obj\Debug\Musoftware Process Hacker.csprojResolveAssemblyReference.cache
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\obj\Debug\Musoftware_Process_Hacker.Frmmain.resources
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\obj\Debug\Musoftware_Process.Properties.Resources.resources
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\obj\Debug\Musoftware Process Hacker.csproj.GenerateResource.Cache
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\obj\Debug\Musoftware Process.exe
+F:\Production\Musoftware Process Hacker\Musoftware Process Hacker\obj\Debug\Musoftware Process.pdb
